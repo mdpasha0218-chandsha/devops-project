@@ -5,7 +5,6 @@ yarn-error.log*
 
 # Git & CI/CD
 .git
-.github
 
 # Environment variables
 .env

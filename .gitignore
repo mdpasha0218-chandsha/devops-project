@@ -19,10 +19,8 @@ logs
 tests/
 coverage
 .nyc_output
-jest.config.js
 
 # Linting & config files
-.eslintrc*
 README.md
 
 # IDE & editor files
